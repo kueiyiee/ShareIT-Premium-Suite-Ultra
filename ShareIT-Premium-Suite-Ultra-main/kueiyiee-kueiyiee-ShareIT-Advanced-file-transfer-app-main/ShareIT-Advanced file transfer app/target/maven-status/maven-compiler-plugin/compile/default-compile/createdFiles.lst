@@ -1,0 +1,10 @@
+com\shareit\shareit\FileTransferApp.class
+com\shareit\shareit\FileTransferClient.class
+com\shareit\shareit\FileTransferController$2.class
+com\shareit\shareit\FileTransferClient$FileSendTask.class
+com\shareit\shareit\FileTransferController$3.class
+module-info.class
+com\shareit\shareit\FileTransferController.class
+com\shareit\shareit\FileTransferServer.class
+com\shareit\shareit\FileTransferController$1.class
+com\shareit\shareit\FileTransferController$FileTransfer.class
